@@ -14,11 +14,11 @@ java Main.java
 ```
 ## Diagrama UML Utilizado
 
-<img src=”imgs/UML.png”>
+<img src=”UML.png”>
 
 ## Exemplo
 
-<img src=”imgs/Exemplo.png”>
+<img src=”Exemplo.png”>
 
 ## Desenvolvedores
 
